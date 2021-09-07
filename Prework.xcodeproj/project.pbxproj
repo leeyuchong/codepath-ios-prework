@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B92307926E43801008FDDC9 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B92307826E43801008FDDC9 /* SettingsViewController.swift */; };
 		6BC20B0226E084B100294135 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC20B0126E084B100294135 /* AppDelegate.swift */; };
 		6BC20B0426E084B100294135 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC20B0326E084B100294135 /* SceneDelegate.swift */; };
 		6BC20B0626E084B100294135 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC20B0526E084B100294135 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6B92307826E43801008FDDC9 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		6BC20AFE26E084B100294135 /* Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Prework.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BC20B0126E084B100294135 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6BC20B0326E084B100294135 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				6BC20B0126E084B100294135 /* AppDelegate.swift */,
 				6BC20B0326E084B100294135 /* SceneDelegate.swift */,
 				6BC20B0526E084B100294135 /* ViewController.swift */,
+				6B92307826E43801008FDDC9 /* SettingsViewController.swift */,
 				6BC20B0726E084B100294135 /* Main.storyboard */,
 				6BC20B0A26E084B300294135 /* Assets.xcassets */,
 				6BC20B0C26E084B300294135 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B92307926E43801008FDDC9 /* SettingsViewController.swift in Sources */,
 				6BC20B0626E084B100294135 /* ViewController.swift in Sources */,
 				6BC20B0226E084B100294135 /* AppDelegate.swift in Sources */,
 				6BC20B0426E084B100294135 /* SceneDelegate.swift in Sources */,
